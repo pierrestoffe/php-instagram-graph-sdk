@@ -1,5 +1,5 @@
 {
-    "name": "doctorconceptual/php-instagram-graph-sdk",
+    "name": "pierrestoffe/php-instagram-graph-sdk",
     "description": "PHP SDK for Instagram Graph API",
     "keywords": ["Instagram Basic Display API SDK", "Instagram SDK", "Instagram Graph API SDK"],
     "homepage": "https://github.com/doctorconceptual/php-instagram-graph-sdk",
@@ -8,7 +8,11 @@
         {
             "name": "Muhammad Talal",
             "email": "mtalal@mtalal.net"
-        }
+        },
+        {
+            "name": "Pierre Stoffe",
+            "homepage": "https://pierrestoffe.be"
+        },
     ],
     "require": {
         "php": ">=5.4.1"
