@@ -194,7 +194,7 @@ class Instagram {
 	{
 		return $this->fetch(
 			sprintf('https://graph.instagram.com/%s', $ig_user_id),
-			['fields' => 'id,username,account_type,ig_id,media_count']
+			['fields' => 'id,username,account_type,media_count']
 		);
 	}
 
